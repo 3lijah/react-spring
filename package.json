@@ -6,7 +6,6 @@
   "module": "web.js",
   "react-native": "native.js",
   "private": true,
-  "sideEffects": false,
   "scripts": {
     "prebuild": "rimraf dist",
     "docz": "docz dev",
